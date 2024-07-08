@@ -1,5 +1,5 @@
 city = input("What City did you grow up in?: \n")
 print(city)
-pet = input("What is your pet's name?: \n")
+pet = input("What is your pet's name?: \nL")
 print(pet)
 print("Your band name is " + city + pet)
