@@ -1,15 +1,15 @@
-def greet():
-    print("HI")
-    print("HI AGAIN")
-    print("HI AGAIN AGAIN")
+# def greet():
+#     print("HI")
+#     print("HI AGAIN")
+#     print("HI AGAIN AGAIN")
 
-greet()
+# greet()
 
 def greetName(name):
     print(f"HI {name}")
     print("HI AGAIN")
     print("HI AGAIN AGAIN")
 
-greet()
+# reet()
 greetName("Amy")
 
